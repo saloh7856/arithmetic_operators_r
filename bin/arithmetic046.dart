@@ -3,6 +3,7 @@
 
 import 'dart:math';
 num func(num a,num b){
+    
     return (a*b-2*a)/(a+b);
 }
 void main(){
