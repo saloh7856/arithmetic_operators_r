@@ -5,5 +5,6 @@ num func(num a,num b){
     return a-b;
 }
 void main(){
+    
     print(func(10,5));
 }
