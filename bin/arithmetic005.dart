@@ -2,7 +2,7 @@
 // the task condition is in the Readme file
 
 double func(int a,int b){
-    return a+b;
+    return a/b;
 }
 void main(){
     print(func(4,5));
